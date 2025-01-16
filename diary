@@ -1,2 +1,13 @@
-On the first day I started with using the template and deleting everything unnecessary for my game. On the second day, I continued with it by first asking Florian for help about my nuts appearing
+13.1. On the first day I started with using the template and deleting everything unnecessary for my game. On the second day, I continued with it by first asking Florian for help about my nuts appearing
   I then continued with my input, the difficult part for me was doing the click function.
+
+14.1. I struggled with some things, where in the end it were just small mistakes i did like not linking the js files or forgetting .js when importing
+stuff etc. After that got sorted out with Florian I could focus on other parts of my game.
+
+15.1. In the beginning I got help from Lukas that the different nuts i have can also have images as well as 
+when clicking on them, that they dissapear. The issue was that my canvas was too small etc.
+
+16.1. Today I fixed my animation, that it reacts to collected nuts as well as has a different reaction to fake nuts. Also got the start button to function.
+I started with drawing the background as well as some sprites for the squirrel. 
+
+17.1. 
