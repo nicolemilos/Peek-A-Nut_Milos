@@ -8,6 +8,19 @@ stuff etc. After that got sorted out with Florian I could focus on other parts o
 when clicking on them, that they dissapear. The issue was that my canvas was too small etc.
 
 16.1. Today I fixed my animation, that it reacts to collected nuts as well as has a different reaction to fake nuts. Also got the start button to function.
-I started with drawing the background as well as some sprites for the squirrel. 
+I started with drawing the background as well as some sprites for the squirrel. I had some struggles with working with multiple files and linking everything right.
 
-17.1. 
+17.1. Today I got my last few things together, so i got my starting screen as well as retry button to work and also connected the first animation to the start.
+I was also rearranging my code into the right files as well as connecting everything successfully.
+
+20.1. I started with my spritesheet for my first animation - the squirrel waves when you load the starting screen. I also continued drawing my
+background as well as started with my second spritesheet - squirrels reaction to collected things.
+
+21.1. Today I mainly struggled with my spritesheet as i created everything on procreate and i had to be very
+exact with my pixels etc. I implemented all animations, all this took my almost the whole day. After that I continued 
+with my background drawing.
+
+22.1. Momo helped me with the sprites, I did the start Screen as well as added all the drawn nuts and heats, timer etc. My biggest
+issue is still! ;( that as soon as i scale my images down on the canvas it doesnt work? But scaling diff pictures in css
+with auto works perfectly fine! Still figuring this out..
+
