@@ -21,6 +21,10 @@ exact with my pixels etc. I implemented all animations, all this took my almost 
 with my background drawing.
 
 22.1. Momo helped me with the sprites, I did the start Screen as well as added all the drawn nuts and heats, timer etc. My biggest
-issue is still! ;( that as soon as i scale my images down on the canvas it doesnt work? But scaling diff pictures in css
-with auto works perfectly fine! Still figuring this out..
+issue is still! ;( After getting feedback from Lukas, he told me that its not quite possible to make it not pixely. I conituned with
+drawing the background in layers.
+
+23.1. Today I finished my drawing and Momo helped me implement all the images as their own layer. I continued to edit the Lose/Winning
+Screen and had to put every nut as well as blocker exactly on their designated place. People were also trying my game out, to let me know
+if 2 mins is too much or nut. I finishedddddddd
 
