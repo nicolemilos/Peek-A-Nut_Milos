@@ -4,11 +4,6 @@
 
 ---
 
-## 🌐 **Play the Game**
-
-
----
-
 ## 📸 **Screenshots**
 
 ### Main Gameplay:
@@ -17,17 +12,18 @@
   
 ---
 
-
 ### Menu and UI:
-
+<div style="text-align: center;">
+  <img src="menu.png" alt="Menu Screenshot" width="600">
 
 ---
 
-## 🎨 **Spritesheets**
-
+## 🎨 **Spritesheet**
 
 ### Hazel the squirrel:
-
+<div style="text-align: center;">
+  <img src="squirrelfertig.PNG" alt="Spritesheet Screenshot" width="600">
+  
 ---
 
 ## ✍️ **Reflection**
