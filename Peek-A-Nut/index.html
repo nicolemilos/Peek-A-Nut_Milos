@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Peek-a-Nut</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="icon" href="favicon.png">
+</head>
+
+<body>
+
+  <div id="gameContainer"> 
+
+     <div id="background"></div>
+
+    <canvas id="canvas" width="1275" height="580"></canvas> 
+    <div id="timerDisplay">
+      <img id="timer" src="./images/timer.png" alt="Timer">
+      <p id="timerText">2:00</p>
+    </div>
+
+    <div id="startScreen"> 
+      <p><br>Hello! I'm Hazel, your friendly squirrel! 🐿️ I need your help to collect enough food for the winter. Can you find at least <b>15 nuts</b> for me? These are the ones you should be looking for:<br>
+          <img id="allnuts" src="./images/allnuts.png" alt="Display of all nuts">
+         <br> But watch out! There are other things that might look like nuts but aren't. Be careful not to collect those, or you'll lose a heart! ❤️
+          <br>
+          You'll only have<b> 2 minutes</b> to search and click, so be quick!
+          
+          <br>Are you ready? Let's go nut hunting!</p>
+        <button id="startButton">Start Game</button>
+      
+      </div> 
+      <div id="winMessage" style="display: none;">
+        <img id="win" src="./images/win.PNG" alt="You won!">
+      </div>
+      
+      <div id="loseMessage" style="display: none;">
+          <div id="loseMessageInner">
+          <p>Game Over! Try Again. 😢
+          <button id="retryButton" style="display: none;">Retry</button>
+        </div>
+      </div>
+     
+  </div>
+
+
+
+  <!-- further HTML elements, that should maybe be displayed below your game. E.g. Score, .... -->
+  
+  <div id="nutDisplay">
+    <img id="nutscollected" src="./images/nutscollected.png" alt="Nuts collected">
+      <p id="nutsText"></p>
+  </div>
+
+  <!-- <div id="heartDisplay" style="display: none">  -->
+
+    <img id="heartImage" src="./images/hearts3.png" alt="">
+
+   <!-- </div>  -->
+
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+  
+</body>
+</html>
